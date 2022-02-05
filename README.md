@@ -22,3 +22,12 @@ Plaid was founded in 2013 by Zach Perret and William Hockey. The pair originally
 ## What Tech is used
  It's an API that stores your login credentials from your bank and keeps it safe. Anytime you are asked for the information (earnin) Plaid sort of steps in and saves the day. That way your personal details are safe and secure. 
 It’s considered a FinTech company because of the simple fact that it uses technology to make the communication efficient between two separate entities (bank and a financial service application) 
+
+## Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+It’s user friendly and developer friendly
+It connects to thousands of financial institutions
+Goal/claim is that they would be able access and authenticate accounts in every bank or credit union in the country
+Disadvantages are connectivity issues across a few banks. 
+Apparently because of the difference in philosophical beliefs between PNC and Plaid there are connectivity issues. Neither company agrees on how data is fetched  and credentials are stored.
+It does not support the cryptocurrency world.
+

@@ -31,3 +31,12 @@ Disadvantages are connectivity issues across a few banks.
 Apparently because of the difference in philosophical beliefs between PNC and Plaid there are connectivity issues. Neither company agrees on how data is fetched  and credentials are stored.
 It does not support the cryptocurrency world.
 
+## What is the prognosis for this company? Where do they expect to be in the future?
+I can see Plaid playing a big part of the cryptocurrency world. I think that to be able to pay with your cryptocurrency will be made more efficient if plaid stepped into the arena. I’m saying that with very little knowledge of the crypto world. 
+Transactions
+Auth
+Balance 
+Identity _confirmation
+Investments - balances and transactions for brokerages
+Assets - financial snapshot for loans
+Liabilities- access customer loan data

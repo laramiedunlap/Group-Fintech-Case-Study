@@ -18,3 +18,7 @@ Plaid was founded in 2013 by Zach Perret and William Hockey. The pair originally
     <li>Xignite</li>
     <li>Dwolla</li>
 </ul>
+
+## What Tech is used
+ It's an API that stores your login credentials from your bank and keeps it safe. Anytime you are asked for the information (earnin) Plaid sort of steps in and saves the day. That way your personal details are safe and secure. 
+It’s considered a FinTech company because of the simple fact that it uses technology to make the communication efficient between two separate entities (bank and a financial service application) 

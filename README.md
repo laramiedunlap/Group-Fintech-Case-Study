@@ -33,7 +33,9 @@ Plaid was founded in 2013 by Zach Perret and William Hockey. The pair originally
     <li>It connects to thousands of financial institutions</li>
     <li>Goal/claim is that they would be able access and authenticate accounts in every bank or credit union in the country</li>
 </ul>
-### Disadvantages
+
+### Disadvantages 
+</ul>
     <li>Connectivity issues across a few banks.</li>
     <li>Apparently because of the difference in philosophical beliefs between PNC and Plaid there are connectivity issues. Neither company agrees on how data is fetched  and credentials are stored.</li>
     <li>It does not support the cryptocurrency world.</li>
